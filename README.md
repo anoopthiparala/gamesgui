@@ -1,9 +1,10 @@
 # Rock-Paper-Scissors-Python-GUI
 Basic GUI game using a the tkinter module from python
 
-##SETUP:
+SETUP:
+
 1. Open the game_gui.py and update the image paths if required
 
-##EXECUTION:
+EXECUTION:
 
 python game_gui.py
